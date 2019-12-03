@@ -2,7 +2,10 @@
 # steps
 1. first create a virtual environment in python 3 by commands:
     python -m venv /path/to/new/virtual/environment
-    then run command 'source <venv>/bin/activate'
+    then run command 'source <venv>/bin/activate' to activate it
+    because lots of programmers do this because it will minimize
+    running into errors. your one project will need django vertion
+    x.x and other x.y by using venv this problem will never arise
     
 2. run pip install django
 3. run command 'django-admin startproject your_project_name'
