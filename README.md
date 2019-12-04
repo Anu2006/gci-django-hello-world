@@ -7,8 +7,8 @@
     running into errors. your one project will need django vertion
     x.x and other x.y by using venv this problem will never arise
     
-2. run pip install django
-3. run command 'django-admin startproject your_project_name'
+2. run pip install django to install django
+3. run command 'django-admin startproject your_project_name' to start a new project
 4. to run the server goto the directory that has manage.py in your project
    and run the command 'python manage.py runserver'
 
